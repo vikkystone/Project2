@@ -1,4 +1,4 @@
-</head>
+
 <body>
     <div class="container">
         <h1>VIKKY STONE</h1>
@@ -7,4 +7,4 @@
         <a href="https://www.instagram.com/r4o_vs" target="_blank">Follow me on Instagram</a>
     </div>
 </body>
-</html>
+
